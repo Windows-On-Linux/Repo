@@ -1,0 +1,10 @@
+[
+    {
+        "App": "Ableton Live Suite 11",
+        "Description": "...",
+        "Repository": "https://github.com/Windows-On-Linux/Ableton-On-Linux.git",
+        "Path": "~/wol/Ableton_Live_11_Suite",
+        "Icon": "https://github.com/Windows-On-Linux/Ableton-On-Linux/raw/main/icon.png",
+        "Author": "Andrea Canale"
+    }
+]
