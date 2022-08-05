@@ -1,6 +1,7 @@
 [
     {
         "App": "Ableton Live Suite 11",
+        "CliName": "ableton11",
         "Description": "...",
         "Repository": "https://github.com/Windows-On-Linux/Ableton-On-Linux.git",
         "Path": "~/wol/Ableton_Live_11_Suite",
