@@ -15,7 +15,7 @@
         "Description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.",
         "Repository": "https://github.com/Windows-On-Linux/Photoshop-On-Linux.git",
         "Path": "~/wol/Adobe-Photoshop",
-        "Icon": "https://github.com/Windows-On-Linux/Photoshop-On-Linux/raw/main/icon.svg",
+        "Icon": "https://raw.githubusercontent.com/Windows-On-Linux/Photoshop-On-Linux/main/icon.svg",
         "Author": "MiMillieuh & Andrea Canale",
         "Version": "1.0"
     }
