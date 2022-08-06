@@ -8,5 +8,15 @@
         "Icon": "https://github.com/Windows-On-Linux/Ableton-On-Linux/raw/main/icon.png",
         "Author": "Andrea Canale",
         "Version": "1.0"
+    },
+    {
+        "App": "Photoshop 2021",
+        "CliName": "photoshop21",
+        "Description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.",
+        "Repository": "https://github.com/Windows-On-Linux/Photoshop-On-Linux.git",
+        "Path": "~/wol/Adobe-Photoshop",
+        "Icon": "https://github.com/Windows-On-Linux/Photoshop-On-Linux/raw/main/icon.svg",
+        "Author": "MiMillieuh & Andrea Canale",
+        "Version": "1.0"
     }
 ]
