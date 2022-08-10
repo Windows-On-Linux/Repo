@@ -32,7 +32,7 @@
   {
     "App": "Multisim 12",
     "Author": "Andrea Canale",
-    "Cliname": "multisim12",
+    "CliName": "multisim12",
     "Description": "NI Multisim (formerly MultiSIM) is an electronic schematic capture and simulation program which is part of a suite of circuit design programs, along with NI Ultiboard. ",
     "Icon": "https://github.com/Windows-On-Linux/Multisim-On-Linux/raw/main/icon.png",
     "Path": "~/wol/multisim12/",

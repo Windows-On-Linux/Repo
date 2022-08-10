@@ -56,7 +56,7 @@ fn main() {
     jsonarray.push(json!(
         {
             "App": appname.replace("\n", ""),
-            "Cliname": cliname.replace("\n", ""),
+            "CliName": cliname.replace("\n", ""),
             "Description": description.replace("\n", ""),
             "Repository": repository.replace("\n", ""),
             "Path": path.replace("\n", ""),
@@ -69,6 +69,4 @@ fn main() {
     let mut repofile = std::fs::OpenOptions::new().write(true).open("./repository.json").unwrap();
     repofile.write_all(serde_json::to_string_pretty(jsonarray).unwrap().as_bytes()).unwrap();
     repofile.flush().unwrap();
-    //serde_json::to_writer(repofile, jsonarray).unwrap();
-
 }
