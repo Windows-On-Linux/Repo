@@ -1,32 +1,42 @@
 [
-    {
-        "App": "Ableton Live Suite 11",
-        "CliName": "ableton11",
-        "Description": "...",
-        "Repository": "https://github.com/Windows-On-Linux/Ableton-On-Linux.git",
-        "Path": "~/wol/Ableton_Live_11_Suite",
-        "Icon": "https://github.com/Windows-On-Linux/Ableton-On-Linux/raw/main/icon.png",
-        "Author": "Andrea Canale",
-        "Version": "1.0"
-    },
-    {
-        "App": "Photoshop 2021",
-        "CliName": "photoshop21",
-        "Description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.",
-        "Repository": "https://github.com/Windows-On-Linux/Photoshop-On-Linux.git",
-        "Path": "~/wol/Adobe-Photoshop",
-        "Icon": "https://raw.githubusercontent.com/Windows-On-Linux/Photoshop-On-Linux/main/icon.svg",
-        "Author": "MiMillieuh & Andrea Canale",
-        "Version": "1.0"
-    },
-    {
-        "App": "Guitar Pro 8",
-        "CliName": "guitarpro8",
-        "Description": "Guitar Pro is a multitrack editor of guitar and bass tablature and musical scores, possessing a built-in MIDI-editor, a plotter of chords, a player, a metronome and other tools for musicians. It has versions for Windows and Mac OS X (Intel processors only) and is written by the French company Arobas Music.",
-        "Repository": "https://github.com/Windows-On-Linux/Guitar-Pro-On-Linux",
-        "Path": "~/wol/Guitar_Pro_8",
-        "Icon": "https://github.com/Windows-On-Linux/Guitar-Pro-On-Linux/raw/main/icon.png",
-        "Author": "Andrea Canale",
-        "Version": "1.0"
-    }
+  {
+    "App": "Ableton Live Suite 11",
+    "Author": "Andrea Canale",
+    "CliName": "ableton11",
+    "Description": "...",
+    "Icon": "https://github.com/Windows-On-Linux/Ableton-On-Linux/raw/main/icon.png",
+    "Path": "~/wol/Ableton_Live_11_Suite",
+    "Repository": "https://github.com/Windows-On-Linux/Ableton-On-Linux.git",
+    "Version": "1.0"
+  },
+  {
+    "App": "Photoshop 2021",
+    "Author": "MiMillieuh & Andrea Canale",
+    "CliName": "photoshop21",
+    "Description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.",
+    "Icon": "https://raw.githubusercontent.com/Windows-On-Linux/Photoshop-On-Linux/main/icon.svg",
+    "Path": "~/wol/Adobe-Photoshop",
+    "Repository": "https://github.com/Windows-On-Linux/Photoshop-On-Linux.git",
+    "Version": "1.0"
+  },
+  {
+    "App": "Guitar Pro 8",
+    "Author": "Andrea Canale",
+    "CliName": "guitarpro8",
+    "Description": "Guitar Pro is a multitrack editor of guitar and bass tablature and musical scores, possessing a built-in MIDI-editor, a plotter of chords, a player, a metronome and other tools for musicians. It has versions for Windows and Mac OS X (Intel processors only) and is written by the French company Arobas Music.",
+    "Icon": "https://github.com/Windows-On-Linux/Guitar-Pro-On-Linux/raw/main/icon.png",
+    "Path": "~/wol/Guitar_Pro_8",
+    "Repository": "https://github.com/Windows-On-Linux/Guitar-Pro-On-Linux",
+    "Version": "1.0"
+  },
+  {
+    "App": "Multisim 12",
+    "Author": "Andrea Canale",
+    "Cliname": "multisim12",
+    "Description": "NI Multisim (formerly MultiSIM) is an electronic schematic capture and simulation program which is part of a suite of circuit design programs, along with NI Ultiboard. ",
+    "Icon": "https://github.com/Windows-On-Linux/Multisim-On-Linux/raw/main/icon.png",
+    "Path": "~/wol/multisim12/",
+    "Repository": "https://github.com/Windows-On-Linux/Multisim-On-Linux.git",
+    "Version": "1.0"
+  }
 ]
