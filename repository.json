@@ -38,5 +38,15 @@
     "Path": "~/wol/multisim12/",
     "Repository": "https://github.com/Windows-On-Linux/Multisim-On-Linux.git",
     "Version": "1.0"
+  },
+  {
+    "App": "Office 2013",
+    "Author": "Andrea Canale",
+    "CliName": "office2013",
+    "Description": "Please, install winbind before run script. Microsoft Office, or simply Office, is a family of client software, server software, and services developed by Microsoft. ",
+    "Icon": "https://github.com/Windows-On-Linux/Office-On-Linux/raw/main/icon.png",
+    "Path": "~/wol/office2013",
+    "Repository": "https://github.com/Windows-On-Linux/Office-On-Linux.git",
+    "Version": "1.0.0"
   }
 ]
