@@ -1,5 +1,5 @@
 [package]
-name = "WOL Repo"
+name = "WOLRepo"
 version = "0.1.0"
 edition = "2021"
 
