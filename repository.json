@@ -45,17 +45,17 @@
     "CliName": "office2013",
     "Description": "Please, install winbind before run script. Microsoft Office, or simply Office, is a family of client software, server software, and services developed by Microsoft. ",
     "Icon": "https://github.com/Windows-On-Linux/Office-On-Linux/raw/main/icon.png",
-    "Path": "~/wol/office2013",
+    "Path": "~/wol/office2013/",
     "Repository": "https://github.com/Windows-On-Linux/Office-On-Linux.git",
     "Version": "1.0.0"
   },
   {
-    "App": "Adobe Lightroom 2021",
+    "App": "Adobe Illustrator 2021",
     "Author": "MiMillieuh",
-    "CliName": "lightroom21",
-    "Description": "Adobe Lightroom (officially Adobe Photoshop Lightroom) is a creative image organization and image manipulation software developed by Adobe Inc. as part of the Creative Cloud subscription family. It is supported on Windows, macOS, iOS, Android, and tvOS (Apple TV). Its primary uses include importing, saving, viewing, organizing, tagging, editing, and sharing large numbers of digital images.[6] Lightroom's editing functions include white balance, presence, tone, tone curve, HSL, color grading, detail, lens corrections, and calibration manipulation, as well as transformation, spot removal, red eye correction, graduated filters, radial filters, and adjustment brushing. The name of the software is based on darkrooms used for processing light-sensitive photographic materials.",
-    "Icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png",
-    "Path": "~/wol/lightroom21",
+    "CliName": "illustrator21",
+    "Description": "Adobe illustrator (officially Adobe Photoshop illustrator) is a creative image organization and image manipulation software developed by Adobe Inc. as part of the Creative Cloud subscription family. It is supported on Windows, macOS, iOS, Android, and tvOS (Apple TV). Its primary uses include importing, saving, viewing, organizing, tagging, editing, and sharing large numbers of digital images.[6] illustrator's editing functions include white balance, presence, tone, tone curve, HSL, color grading, detail, lens corrections, and calibration manipulation, as well as transformation, spot removal, red eye correction, graduated filters, radial filters, and adjustment brushing. The name of the software is based on darkrooms used for processing light-sensitive photographic materials.",
+    "Icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_illustrator_CC_logo.svg/1024px-Adobe_Photoshop_illustrator_CC_logo.svg.png",
+    "Path": "~/wol/Adobe-Illustrator-2021/",
     "Repository": "https://github.com/Windows-On-Linux/Illustrator-CC-2021-Linux.git",
     "Version": "1.0.0"
   }
