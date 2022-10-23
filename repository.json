@@ -58,5 +58,15 @@
     "Path": "~/wol/Adobe-Illustrator-2021/",
     "Repository": "https://github.com/Windows-On-Linux/Illustrator-CC-2021-Linux.git",
     "Version": "1.0.0"
+  },
+  {
+    "App": "Flowgorithm",
+    "Author": "Andrea055",
+    "CliName": "flowgorithm",
+    "Description": "Flowgorithm is a graphical authoring tool which allows users to write and execute programs using flowcharts. The approach is designed to emphasize the algorithm rather than the syntax of a specific programming language.[1] The flowchart can be converted to several major programming languages. Flowgorithm was created at Sacramento State University.[2]",
+    "Icon": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flowgorithm_Logo.gif",
+    "Path": "~/wol/Flowgorithm",
+    "Repository": "https://github.com/Windows-On-Linux/Flowgorithm.git",
+    "Version": "1.0.0"
   }
 ]
