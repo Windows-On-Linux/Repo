@@ -68,5 +68,15 @@
     "Path": "~/wol/Flowgorithm",
     "Repository": "https://github.com/Windows-On-Linux/Flowgorithm.git",
     "Version": "1.0.0"
+  },
+  {
+    "App": "Adobe Acrobat Xi",
+    "Author": "Andrea Canale",
+    "CliName": "acrobatxi",
+    "Description": "Adobe Acrobat is a family of application software and Web services developed by Adobe Inc. to view, create, manipulate, print and manage Portable Document Format (PDF) files.",
+    "Icon": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Adobe_Acrobat_XI.png",
+    "Path": "~/wol/acr",
+    "Repository": "https://github.com/Windows-On-Linux/Acrobat-Xi.git",
+    "Version": "1.0.0"
   }
 ]
